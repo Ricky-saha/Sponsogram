@@ -1,3 +1,11 @@
+<h1>Screenshot</h1>
+
+![Screenshot 2024-07-06 223856](https://github.com/Ricky-saha/Sponsogram/assets/134414493/653d27b8-10b4-42df-aece-f22206458d64)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
