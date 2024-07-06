@@ -1,0 +1,8 @@
+.underline-link {
+    content: '';
+    display: block;
+    height: 2px; /* Adjust the height of the line as needed */
+    background-color: #2CB96C; /* Use your custom green color variable or replace it with a hex code */
+    width: 100%;
+    transform: translateY(-100%); /* Adjust the position of the line above the text */
+}
